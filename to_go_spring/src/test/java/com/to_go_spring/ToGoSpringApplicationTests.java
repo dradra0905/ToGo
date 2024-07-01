@@ -1,10 +1,10 @@
-package com.example.jido;
+package com.to_go_spring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JidoApplicationTests {
+class ToGoSpringApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,13 @@
-package com.example.jido;
+package com.to_go_spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JidoApplication {
+public class ToGoSpringApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JidoApplication.class, args);
+		SpringApplication.run(ToGoSpringApplication.class, args);
 	}
 
 }
